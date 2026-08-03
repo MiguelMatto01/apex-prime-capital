@@ -18,7 +18,7 @@ const Footer = ({ onComplianceClick }: FooterProps) => {
         <div className="grid md:grid-cols-4 gap-6 lg:gap-8 mb-6">
           <div>
             <img
-              src="/no_padding_transparent_logo.webp"
+              src="/no_padding_transparent_logo.png"
               alt="Apex Prime Capital - Melbourne Financial Services"
               className="h-24 w-auto mb-3 drop-shadow-lg"
             />
