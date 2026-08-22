@@ -101,7 +101,7 @@ const Hero = () => {
         <div className="hidden sm:flex absolute right-6 sm:right-10 md:right-14 lg:right-20 top-24 sm:top-28 md:top-28 lg:top-32 flex-col items-center gap-4 md:gap-6">
           <div className="pointer-events-none">
             <img
-              src="/no_padding_transparent_logo.webp"
+              src="/no_padding_transparent_logo.png"
               alt="Apex Prime Capital Logo"
               className={`w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 lg:w-[28rem] lg:h-[28rem] xl:w-[32rem] xl:h-[32rem] 2xl:w-[36rem] 2xl:h-[36rem] object-contain drop-shadow-2xl transition-opacity duration-1000 ${logoVisible ? 'opacity-100' : 'opacity-0'}`}
             />
