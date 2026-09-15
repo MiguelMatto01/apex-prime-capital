@@ -194,21 +194,6 @@ const Footer = ({ onComplianceClick }: FooterProps) => {
             </div>
           </div>
 
-          <div className="mt-4 text-center">
-            <a
-              href="https://edeed.com.au/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-gray-400 hover:text-gold transition-colors duration-300 group"
-            >
-              <span className="text-sm">Made by</span>
-              <img
-                src="/edeed-logo-mobile.png"
-                alt="EDEED"
-                className="h-6 w-auto opacity-80 group-hover:opacity-100 transition-opacity duration-300"
-              />
-            </a>
-          </div>
         </div>
       </div>
     </footer>
